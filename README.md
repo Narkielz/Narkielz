@@ -2,9 +2,9 @@
 I'm Luis Fernando, also known as Narkiel or N0uz, welcome to my GitHub!
 
 ## 「ℹ️」 About Me
-I'm a tech enthusiast passionate about hacking, cryptography, and pentesting.  
-I code in **Python, Ruby, C, HTML, PHP, SQL**, and I love exploring the depths of security challenges.  
-In my free time, I build tools, solve CTFs, and experiment with creative programming.
+I'm a tech enthusiast focused on hacking, cryptography, and pentesting.  
+I code in **Python, Ruby, C, HTML, PHP, SQL, and Java**.  
+I enjoy building tools, solving CTF challenges, and experimenting with new projects.
 
 ## 「💻」 My Skills
 
@@ -15,6 +15,7 @@ In my free time, I build tools, solve CTFs, and experiment with creative program
 - **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5)  
 - **PHP** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP)  
 - **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL)  
+- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java)
 
 ### Security & Hacking
 - 🛡️ Pentesting  
