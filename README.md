@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm Luis Fernando, also known as Nark, welcome to my GitHub!
+I'm Luis Fernando, also known as Narkiel or N0uz, welcome to my GitHub!
 
 ## 「ℹ️」 About Me
 I'm a tech enthusiast passionate about hacking, cryptography, and pentesting.  
