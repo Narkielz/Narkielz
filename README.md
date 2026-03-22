@@ -45,3 +45,4 @@ I enjoy building tools, solving CTF challenges, and experimenting with new proje
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=social&logo=Twitter)](https://twitter.com/narkiel_8448) <br>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=YouTube)](https://youtube.com/@narkielz_8448) <br>
 [![Email](https://img.shields.io/badge/narkiel.8448@gmail.com-8B89CC?style=social&logo=Gmail)]()
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=social&logo=gitlab)](https://gitlab.com/narkiel)
