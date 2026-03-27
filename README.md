@@ -1,48 +1,81 @@
-# Hi there 👋  
-I'm Luis Fernando, also known as Narkiel or N0uz, welcome to my GitHub!
+# 🧑‍💻 Luis Fernando
 
-## 「ℹ️」 About Me
-I'm a tech enthusiast focused on hacking, cryptography, and pentesting.  
-I code in **Python, Ruby, C, HTML, PHP, SQL, and Java**.  
-I enjoy building tools, solving CTF challenges, and experimenting with new projects.
+📍 **Narkiel** | **N0uz**  
+*Cybersecurity & Development Enthusiast*
 
-## 「💻」 My Skills
+---
 
-### Programming Languages
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python)  
-- **Ruby** ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby)  
-- **C** ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C)  
-- **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5)  
-- **PHP** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP)  
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL)  
-- **Java** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narkielz&color=dc143c&style=flat-square&label=Visitors" alt="visitors" />
+</p>
 
-### Security & Hacking
-- 🛡️ Pentesting  
-- 🔏 Cryptography  
-- 🕵️ OSINT  
-- 🌐 Web Hacking  
-- 🖥️ Reverse Engineering  
+---
 
-### Tools & Tech
-- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git)  
-- **Debian** ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian)  
-- **Linux** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux)  
+## 「👨‍💻」 About Me
 
-## 「📂」 Pinned Repositories
-- [**Bresenham**](https://github.com/Narkielz/Bresenham)  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=Bresenham&bg_color=0d0d0d&text_color=ff2b2b&title_color=ff2b2b" />  
+Technology enthusiast focused on **security**, **cryptography**, and **pentesting**.  
+I enjoy solving CTF challenges and building tools.
 
-- [**pwnlib_8448**](https://github.com/Narkielz/pwnlib_8448)  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=pwnlib_8448&bg_color=0d0d0d&text_color=ff2b2b&title_color=ff2b2b" />  
+I work with **Python**, **Ruby**, **C**, **Java**, and **web development** using **PHP** and **HTML**.
+
+---
+
+## 「🛠️」 Tech Stack
+
+### 📝 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### 🔒 Security
+![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=flat-square&logo=kalilinux&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-8B0000?style=flat-square&logo=lock&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-800000?style=flat-square&logo=eye&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-660000?style=flat-square&logo=ghost&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+---
+
+## 「📂」 Projects
+
+### 🔹 [Bresenham](https://github.com/Narkielz/Bresenham)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=Bresenham&bg_color=0d0d0d&text_color=dc143c&title_color=dc143c" />
+</p>
+
+### 🔹 [pwnlib_8448](https://github.com/Narkielz/pwnlib_8448)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=pwnlib_8448&bg_color=0d0d0d&text_color=dc143c&title_color=dc143c" />
+</p>
+
+---
 
 ## 「📊」 GitHub Stats
-[![Nark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=ff2b2b&show_icons=true)](https://github.com/Narkielz)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=ff2b2b&layout=compact)](https://github.com/Narkielz)  
 
-## 「📡」 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=social&logo=GitHub)](https://github.com/Narkielz) <br>
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=social&logo=Twitter)](https://twitter.com/narkiel_8448) <br>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=YouTube)](https://youtube.com/@narkielz_8448) <br>
-[![Email](https://img.shields.io/badge/narkiel.8448@gmail.com-8B89CC?style=social&logo=Gmail)]()
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?style=social&logo=gitlab)](https://gitlab.com/narkiel)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=dc143c&show_icons=true&icon_color=dc143c) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=dc143c&layout=compact) |
+|--|--|
+
+---
+
+## 「🏆」 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Narkielz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
+
+---
+
+## 「📡」 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Narkielz-181717?style=flat-square&logo=github)](https://github.com/Narkielz)
+[![Twitter](https://img.shields.io/badge/Twitter-@narkiel_8448-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/narkiel_8448)
+[![YouTube](https://img.shields.io/badge/YouTube-Narkielz_8448-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@narkielz_8448)
+[![GitLab](https://img.shields.io/badge/GitLab-narkiel-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/narkiel)
+[![Email](https://img.shields.io/badge/Email-narkiel.8448@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:narkiel.8448@gmail.com)
+
+---
