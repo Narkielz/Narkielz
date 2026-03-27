@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Narkielz&color=dc143c&style=flat-square&label=Visitors" alt="visitors" />
-</p>
-
----
-
 ## 「👨‍💻」 About Me
 
 Technology enthusiast focused on **security**, **cryptography**, and **pentesting**.  
