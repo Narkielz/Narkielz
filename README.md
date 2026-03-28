@@ -1,75 +1,160 @@
-# 🧑‍💻 Luis Fernando
 
-📍 **Narkiel** | **N0uz**  
-*Cybersecurity & Development*
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
----
+<h1 align="center">
+  Hi, I'm Luis Fernando (Narkiel)
+</h1>
 
-## 「👨‍💻」 About Me
-
-Technology enthusiast focused on **security**, **cryptography**, and **pentesting**.  
-I enjoy solving CTF challenges and building tools.
-
-I work with **Python**, **Ruby**, **C**, **Java**, and **web development** using **PHP** and **HTML**.
-
----
-
-## 「🛠️」 Tech Stack
-
-### 📝 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### 🔒 Security
-![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=flat-square&logo=kalilinux&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-8B0000?style=flat-square&logo=lock&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-800000?style=flat-square&logo=eye&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-660000?style=flat-square&logo=ghost&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
----
-
-## 「📂」 Projects
-
-### 🔹 [Bresenham](https://github.com/Narkielz/Bresenham)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=Bresenham&bg_color=0d0d0d&text_color=dc143c&title_color=dc143c" />
-</p>
-
-### 🔹 [pwnlib_8448](https://github.com/Narkielz/pwnlib_8448)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narkielz&repo=pwnlib_8448&bg_color=0d0d0d&text_color=dc143c&title_color=dc143c" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00FFAA&size=22&center=true&vCenter=true&width=700&height=80&lines=Web+Developer;Android+Developer;CTF+Player;Reverse+Engineering;Building+Things..." />
 </p>
 
 ---
 
-## 「📊」 GitHub Stats
+## 🧠 About Me
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=dc143c&show_icons=true&icon_color=dc143c) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narkielz&bg_color=0d0d0d&text_color=ffffff&title_color=dc143c&layout=compact) |
-|--|--|
+<picture>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMDQzam9tbHN6dnFiMXh4YndybHljNXV5azMwcWQxbGthZGNpOGltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif" width="230">
+</picture>
+
+```bash
+> whoami
+
+Luis Fernando
+aka Narkiel
+
+- Web Developer (PHP / HTML / CSS)
+- Android Developer (Java)
+- Cryptography & CTF
+- Reverse Engineering / Binary Exploitation (learning)
+
+Focus: building tools, breaking things, understanding systems
+```
 
 ---
 
-## 「🏆」 Achievements
+## ⚙️ Stack
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Narkielz&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)
+```bash
+> skills --list
+
+Languages:
+  Python   C   Java   Ruby   PHP
+
+Web:
+  HTML   CSS   MySQL
+
+Tools:
+  Linux   Kali   Debian   Git   Arduino
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</p>
 
 ---
 
-## 「📡」 Connect
+## 📊 Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-Narkielz-181717?style=flat-square&logo=github)](https://github.com/Narkielz)
-[![Twitter](https://img.shields.io/badge/Twitter-@narkiel_8448-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/narkiel_8448)
-[![YouTube](https://img.shields.io/badge/YouTube-Narkielz_8448-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@narkielz_8448)
-[![GitLab](https://img.shields.io/badge/GitLab-narkiel-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/narkiel)
-[![Email](https://img.shields.io/badge/Email-narkiel.8448@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:narkiel.8448@gmail.com)
+```bash
+> github --stats Narkielz
+loading modules...
+fetching data...
+```
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Narkielz&show_icons=true&theme=tokyonight" width="420"/>
+  
+</p>
+
+```bash
+> status
+
+[+] modules loaded successfully
+[+] data synced
+[+] profile ready
+```
 
 ---
+
+## 🧩 Current Focus
+
+```bash
+> focus --now
+
+[*] reverse engineering        -> analyzing binaries, understanding internals
+[*] binary exploitation       -> memory corruption, stack control, ROP
+[*] CTF development           -> building tools & solving challenges
+[*] low-level programming     -> C, assembly, system behavior
+[*] security research         -> vulnerabilities, attack surface exploration
+```
+
+```bash
+> focus --next
+
+[~] advanced exploit techniques
+[~] custom shellcode (multi-arch)
+[~] deeper Linux internals
+[~] automation for pentesting
+```
+
+---
+
+## 🚀 Projects
+
+```bash
+> projects --list
+
+[+] pwnlib_8448  -> lightweight exploitation library
+```
+
+---
+
+## 🌐 Connect
+
+```bash
+> open --links
+
+[+] github
+[+] twitter
+[+] youtube
+[+] email
+```
+
+<p align="center">
+  <a href="https://github.com/Narkielz">
+    <img src="https://img.shields.io/badge/GitHub-Narkielz-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/narkiel_8448">
+    <img src="https://img.shields.io/badge/Twitter-@narkiel_8448-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+
+  <a href="https://youtube.com/@narkielz_8448">
+    <img src="https://img.shields.io/badge/YouTube-Narkielz-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="mailto:narkiel.8448@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧬 Philosophy
+
+```bash
+> echo $philosophy
+
+Code → Break → Understand → Repeat
+```
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
