@@ -49,11 +49,34 @@ Tools:
 ```
 
 <p align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+  <!-- Low Level / Security -->
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux_Systems-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Binary_Exploitation-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=flat-square">
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+
+  <!-- Extras -->
+  <img src="https://img.shields.io/badge/CTF-Game-FF69B4?style=flat-square">
+  <img src="https://img.shields.io/badge/Cryptography-003366?style=flat-square">
 </p>
 
 ---
@@ -144,8 +167,6 @@ fetching data...
 </p>
 
 ---
-
-## 🧬 Philosophy
 
 ```bash
 > echo $philosophy
