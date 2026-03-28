@@ -1,7 +1,7 @@
 # 🧑‍💻 Luis Fernando
 
 📍 **Narkiel** | **N0uz**  
-*Cybersecurity & Development Enthusiast*
+*Cybersecurity & Development*
 
 ---
 
