@@ -28,7 +28,6 @@ aka Narkiel
 - Cryptography & CTF
 - Reverse Engineering / Binary Exploitation (learning)
 
-Focus: building tools, breaking things, understanding systems
 ```
 
 ---
@@ -165,14 +164,6 @@ fetching data...
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-```bash
-> echo $philosophy
-
-Code → Break → Understand → Repeat
-```
 
 ---
 
