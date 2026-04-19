@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <picture>
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMDQzam9tbHN6dnFiMXh4YndybHljNXV5azMwcWQxbGthZGNpOGltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4dsdIExLHeiPFm/giphy.gif" width="230">
@@ -27,6 +27,7 @@ aka Narkiel
 - Android Developer (Java)
 - Cryptography & CTF
 - Reverse Engineering / Binary Exploitation (learning)
+- Pentester
 
 ```
 
@@ -79,53 +80,7 @@ Tools:
 </p>
 
 ---
-
-## 📊 Stats
-
-```bash
-> github --stats Narkielz
-loading modules...
-fetching data...
-```
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Narkielz&show_icons=true&theme=tokyonight" width="420"/>
-  
-</p>
-
-```bash
-> status
-
-[+] modules loaded successfully
-[+] data synced
-[+] profile ready
-```
-
----
-
-## 🧩 Current Focus
-
-```bash
-> focus --now
-
-[*] reverse engineering        -> analyzing binaries, understanding internals
-[*] binary exploitation       -> memory corruption, stack control, ROP
-[*] CTF development           -> building tools & solving challenges
-[*] low-level programming     -> C, assembly, system behavior
-[*] security research         -> vulnerabilities, attack surface exploration
-```
-
-
-## 🌐 Connect
-
-```bash
-> open --links
-
-[+] github
-[+] twitter
-[+] youtube
-[+] email
-```
+## Connect
 
 <p align="center">
   <a href="https://github.com/Narkielz">
