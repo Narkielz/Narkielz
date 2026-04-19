@@ -115,26 +115,6 @@ fetching data...
 [*] security research         -> vulnerabilities, attack surface exploration
 ```
 
-```bash
-> focus --next
-
-[~] advanced exploit techniques
-[~] custom shellcode (multi-arch)
-[~] deeper Linux internals
-[~] automation for pentesting
-```
-
----
-
-## 🚀 Projects
-
-```bash
-> projects --list
-
-[+] pwnlib_8448  -> lightweight exploitation library
-```
-
----
 
 ## 🌐 Connect
 
